@@ -1,2 +1,0 @@
-Race Date,Race Number,Places,Starting Numbers,,Race Date,Race Number,Starting Numbers,Win,Place,Show,Exacta,É,Refund
-Date time object,Integer,Dict with {Horse Name: Place},Dict with {Horse Name: Starting Number},,Date time object,Integer,Dict with {Horse Name: Starting Number},"list of tuples (starting number, winning payout)",É,É,É,,list of refunded Horse Starting Positions
