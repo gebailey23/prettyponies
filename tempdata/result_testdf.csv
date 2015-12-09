@@ -1,0 +1,632 @@
+,Post,Horse,Win,Place,Show,Track,Year,Finish,Odds
+0,11.0,Real Quiet,7.0,3.6,3.0,_Preakness_Stakes,1998,1,2.5
+1,10.0,Victory Gallop,,3.2,2.8,_Preakness_Stakes,1998,2,2.0
+2,3.0,Classic Cat,,,4.8,_Preakness_Stakes,1998,3,12.3
+3,6.0,Charismatic,18.8,7.6,5.8,_Preakness_Stakes,1999,1,8.4
+4,5.0,Menifee,,3.6,3.2,_Preakness_Stakes,1999,2,2.0
+5,4.0,Badge,,,18.8,_Preakness_Stakes,1999,3,58.0
+6,4.0,Red Bullet,14.4,3.2,2.8,_Preakness_Stakes,2000,1,6.2
+7,7.0,Fusaichi Pegasus,,2.6,2.2,_Preakness_Stakes,2000,2,0.3
+8,3.0,Impeachment,,,3.6,_Preakness_Stakes,2000,3,19.1
+9,11.0,Point Given,6.6,5.0,4.0,_Preakness_Stakes,2001,1,2.3
+10,4.0,A P Valentine,,8.2,5.2,_Preakness_Stakes,2001,2,10.2
+11,5.0,Congaree,,,3.4,_Preakness_Stakes,2001,3,2.8
+12,8.0,War Emblem,7.6,6.0,4.4,_Preakness_Stakes,2002,1,2.8
+13,2.0,Magic Weisner,,33.0,14.0,_Preakness_Stakes,2002,2,45.7
+14,9.0,Funny Cide,5.8,4.6,3.4,_Preakness_Stakes,2003,1,1.9
+15,6.0,Midway Road,,15.4,9.0,_Preakness_Stakes,2003,2,20.0
+16,7.0,Smarty Jones,3.4,3.0,2.6,_Preakness_Stakes,2004,1,0.7
+17,10.0,Rock Hard Ten,,5.0,4.0,_Preakness_Stakes,2004,2,6.9
+18,9.0,Eddington,,,5.2,_Preakness_Stakes,2004,3,13.2
+19,12.0,Afleet Alex,8.6,5.0,3.2,_Preakness_Stakes,2005,1,3.3
+20,5.0,Scrappy T,,11.2,5.8,_Preakness_Stakes,2005,2,13.3
+21,13.0,Giacomo,,,4.8,_Preakness_Stakes,2005,3,6.0
+22,8.0,Bernardini,27.8,9.4,5.8,_Preakness_Stakes,2006,1,12.9
+23,7.0,Sweetnorthernsaint,,7.8,5.0,_Preakness_Stakes,2006,2,8.4
+24,3.0,Hemingway's Key,,,8.0,_Preakness_Stakes,2006,3,29.4
+25,4.0,Curlin,8.8,3.8,2.8,_Preakness_Stakes,2007,1,3.4
+26,8.0,Street Sense,,3.0,2.4,_Preakness_Stakes,2007,2,1.3
+27,7.0,Hard Spun,,,3.0,_Preakness_Stakes,2007,3,4.1
+28,7.0,Big Brown,2.4,2.6,2.4,_Preakness_Stakes,2008,1,0.2
+29,1.0,Macho Again,,17.2,10.4,_Preakness_Stakes,2008,2,40.0
+30,3.0,Icabad Crane,,,5.6,_Preakness_Stakes,2008,3,22.0
+31,13.0,Rachel Alexandra,5.6,4.6,3.6,_Preakness_Stakes,2009,1,1.6
+32,2.0,Mine That Bird,,6.6,4.8,_Preakness_Stakes,2009,2,6.0
+33,3.0,Musket Man,,,5.0,_Preakness_Stakes,2009,3,8.0
+34,7.0,Lookin At Lucky,6.8,4.6,3.8,_Preakness_Stakes,2010,1,3.0
+35,11.0,First Dude,,16.6,9.2,_Preakness_Stakes,2010,2,20.0
+36,6.0,Jackson Bend,,,6.6,_Preakness_Stakes,2010,3,12.0
+37,5.0,Shackleford,27.2,10.2,6.8,_Preakness_Stakes,2011,1,12.0
+38,11.0,Animal Kingdom,,4.2,3.6,_Preakness_Stakes,2011,2,2.0
+39,1.0,Astrology,,,8.0,_Preakness_Stakes,2011,3,15.0
+40,9.0,I'll Have Another,8.4,3.8,2.8,_Preakness_Stakes,2012,1,2.5
+41,7.0,Bodemeister,,3.2,2.8,_Preakness_Stakes,2012,2,1.6
+42,6.0,Creative Cause,,,3.6,_Preakness_Stakes,2012,3,6.0
+43,6.0,Oxbow,32.8,12.0,6.8,_Preakness_Stakes,2013,1,15.0
+44,9.0,Itsmyluckyday,,7.8,5.0,_Preakness_Stakes,2013,2,10.0
+45,5.0,Mylute,,,5.2,_Preakness_Stakes,2013,3,5.0
+46,3.0,California Chrome,3.0,3.0,2.4,_Preakness_Stakes,2014,1,0.6
+47,8.0,Social Inclusion,,,3.4,_Preakness_Stakes,2014,3,5.0
+48,1.0,American Pharoah,3.8,3.4,2.8,_Preakness_Stakes,2015,1,0.8
+49,5.0,Tale of Verve,,19.0,8.8,_Preakness_Stakes,2015,2,30.0
+50,7.0,Divining Rod,,,5.2,_Preakness_Stakes,2015,3,12.0
+51,2.0,Real Quiet,18.8,8.8,5.8,_Kentucky_Derby,1998,1,8.4
+52,12.0,Victory Gallop,,13.0,7.6,_Kentucky_Derby,1998,2,14.6
+53,7.0,Indian Charlie,,,4.2,_Kentucky_Derby,1998,3,2.7
+54,11.0,Charismatic,64.6,27.8,14.4,_Kentucky_Derby,1999,1,31.3
+55,13.0,Menifee,,8.4,5.8,_Kentucky_Derby,1999,2,7.0
+56,8.0,Cat Thief,,,5.8,_Kentucky_Derby,1999,3,7.4
+57,12.0,Fusaichi Pegasus,6.6,5.6,4.0,_Kentucky_Derby,2000,1,2.3
+58,5.0,Aptitude,,9.8,5.8,_Kentucky_Derby,2000,2,11.8
+59,0.0,Impeachment,,,4.0,_Kentucky_Derby,2000,3,6.2
+60,16.0,Monarchos,23.0,11.8,8.8,_Kentucky_Derby,2001,1,10.5
+61,13.0,Invisible Ink,,46.6,21.2,_Kentucky_Derby,2001,2,55.0
+62,8.0,Congaree,,,7.2,_Kentucky_Derby,2001,3,7.2
+63,5.0,War Emblem,43.0,22.8,13.6,_Kentucky_Derby,2002,1,20.5
+64,13.0,Proud Citizen,,24.6,13.4,_Kentucky_Derby,2002,2,23.3
+65,3.0,Perfect Drift,,,6.4,_Kentucky_Derby,2002,3,7.9
+66,6.0,Funny Cide,27.6,12.4,8.2,_Kentucky_Derby,2003,1,12.8
+67,12.0,Empire Maker,,5.8,4.4,_Kentucky_Derby,2003,2,2.5
+68,5.0,Peace Rules,,,6.0,_Kentucky_Derby,2003,3,6.3
+69,15.0,Smarty Jones,10.2,6.2,4.8,_Kentucky_Derby,2004,1,4.1
+70,3.0,Lion Heart,,8.2,5.8,_Kentucky_Derby,2004,2,5.4
+71,10.0,Imperialism,,,6.2,_Kentucky_Derby,2004,3,10.9
+72,10.0,Giacomo,102.6,45.8,19.8,_Kentucky_Derby,2005,1,50.3
+73,18.0,Closing Argument,,70.0,24.8,_Kentucky_Derby,2005,2,71.6
+74,12.0,Afleet Alex,,,4.6,_Kentucky_Derby,2005,3,4.5
+75,8.0,Barbaro,14.2,8.0,6.0,_Kentucky_Derby,2006,1,6.1
+76,13.0,Bluegrass Cat,,28.4,15.4,_Kentucky_Derby,2006,2,30.0
+77,2.0,Steppenwolfer,,,7.8,_Kentucky_Derby,2006,3,16.3
+78,7.0,Street Sense,11.8,6.4,4.6,_Kentucky_Derby,2007,1,4.9
+79,8.0,Hard Spun,,9.8,7.0,_Kentucky_Derby,2007,2,10.0
+80,2.0,Curlin,,,5.6,_Kentucky_Derby,2007,3,5.0
+81,20.0,Big Brown,6.8,5.0,4.8,_Kentucky_Derby,2008,1,2.0
+82,5.0,Eight Belles,,10.6,6.4,_Kentucky_Derby,2008,2,13.0
+83,16.0,Denis of Cork,,,11.6,_Kentucky_Derby,2008,3,27.0
+84,8.0,Mine That Bird,103.2,54.0,25.8,_Kentucky_Derby,2009,1,50.6
+85,2.0,Musket Man,,,12.0,_Kentucky_Derby,2009,3,19.0
+86,4.0,Super Saver,18.0,8.8,6.0,_Kentucky_Derby,2010,1,15.0
+87,2.0,Ice Box,,11.2,8.0,_Kentucky_Derby,2010,2,10.0
+88,10.0,Paddy O'Prado,,,7.4,_Kentucky_Derby,2010,3,20.0
+89,16.0,Animal Kingdom,43.8,19.6,13.0,_Kentucky_Derby,2011,1,30.0
+90,19.0,Nehro,,8.8,6.4,_Kentucky_Derby,2011,2,6.0
+91,13.0,Mucho Macho Man,,,7.0,_Kentucky_Derby,2011,3,12.0
+92,19.0,I'll Have Another,32.6,13.8,9.0,_Kentucky_Derby,2012,1,12.0
+93,6.0,Bodemeister,,6.2,5.6,_Kentucky_Derby,2012,2,4.0
+94,5.0,Dullahan,,,7.2,_Kentucky_Derby,2012,3,8.0
+95,16.0,Orb,12.8,7.4,5.4,_Kentucky_Derby,2013,1,3.5
+96,4.0,Golden Soul,,38.6,19.6,_Kentucky_Derby,2013,2,50.0
+97,3.0,Revolutionary,,,5.4,_Kentucky_Derby,2013,3,10.0
+98,5.0,California Chrome,7.0,5.6,4.2,_Kentucky_Derby,2014,1,2.5
+99,17.0,Commanding Curve,,31.8,15.4,_Kentucky_Derby,2014,2,50.0
+100,4.0,Danza,,,6.0,_Kentucky_Derby,2014,3,10.0
+101,18.0,American Pharoah,7.8,5.8,4.2,_Kentucky_Derby,2015,1,2.5
+102,10.0,Firing Line,,8.4,5.4,_Kentucky_Derby,2015,2,12.0
+103,8.0,Dortmund,,,4.2,_Kentucky_Derby,2015,3,3.0
+104,7.0,Rags to Riches,10.6,4.4,3.2,_Belmont_Stakes,2007,1,3.0
+105,3.0,Curlin,,3.0,2.3,_Belmont_Stakes,2007,2,1.2
+106,2.0,Tiago,,,3.7,_Belmont_Stakes,2007,3,10.0
+107,6.0,Da'Tara,79.0,28.0,14.8,_Belmont_Stakes,2008,1,38.0
+108,4.0,Denis of Cork,,5.4,4.1,_Belmont_Stakes,2008,2,7.0
+109,4.0,Summer Bird,25.4,9.3,4.7,_Belmont_Stakes,2009,1,12.0
+110,2.0,Dunkirk,,5.4,3.6,_Belmont_Stakes,2009,2,4.5
+111,7.0,Mine That Bird,,,2.6,_Belmont_Stakes,2009,3,22.0
+112,7.0,Drosselmeyer,28.0,11.6,7.7,_Belmont_Stakes,2010,1,12.0
+113,5.0,Fly Down,,6.8,5.1,_Belmont_Stakes,2010,2,4.5
+114,11.0,First Dude,,,4.9,_Belmont_Stakes,2010,3,3.5
+115,3.0,Ruler on Ice,51.5,26.0,13.6,_Belmont_Stakes,2011,1,20.0
+116,2.0,Stay Thirsty,,19.4,10.8,_Belmont_Stakes,2011,2,20.0
+117,5.0,Brilliant Speed,,,7.9,_Belmont_Stakes,2011,3,15.0
+118,3.0,Union Rags,7.5,4.2,3.4,_Belmont_Stakes,2012,1,6.0
+119,9.0,Paynter,,5.1,3.9,_Belmont_Stakes,2012,2,8.0
+120,4.0,Atigun,,,10.6,_Belmont_Stakes,2012,3,30.0
+121,12.0,Palace Malice,29.6,11.2,6.7,_Belmont_Stakes,2013,1,15.0
+122,7.0,Oxbow,,9.9,6.1,_Belmont_Stakes,2013,2,5.0
+123,5.0,Orb,,,3.9,_Belmont_Stakes,2013,3,3.0
+124,11.0,Tonalist,20.4,9.6,7.0,_Belmont_Stakes,2014,1,8.0
+125,8.0,Commissioner,,23.2,13.2,_Belmont_Stakes,2014,2,20.0
+126,1.0,Medal Count,,,13.2,_Belmont_Stakes,2014,3,20.0
+127,5.0,American Pharoah,3.5,2.8,2.5,_Belmont_Stakes,2015,1,0.6
+128,6.0,Frosted,,3.5,2.9,_Belmont_Stakes,2015,2,5.0
+129,7.0,Keen Ice,,,4.6,_Belmont_Stakes,2015,3,20.0
+130,7.0,Hot Wells,,,,_Preakness_Stakes,1998,4,25.2
+131,2.0,Black Cash,,,,_Preakness_Stakes,1998,5,7.1
+132,1.0,Spartan Cat,,,,_Preakness_Stakes,1998,6,98.8
+133,6.0,Baquero,,,,_Preakness_Stakes,1998,7,14.6
+134,5.0,Basic Trainee,,,,_Preakness_Stakes,1998,8,63.8
+135,4.0,Cape Town,,,,_Preakness_Stakes,1998,9,2.9
+136,8.0,Silver's Prospect,,,,_Preakness_Stakes,1998,10,98.0
+137,0.0,Coronado's Quest,,,,_Preakness_Stakes,1998,11,0.0
+138,11.0,Stephen Got Even,,,,_Preakness_Stakes,1999,4,11.0
+139,8.0,Patience Game,,,,_Preakness_Stakes,1999,5,15.6
+140,6.0,Adonis,,,,_Preakness_Stakes,1999,6,19.8
+141,3.0,Cat Thief,,,,_Preakness_Stakes,1999,7,5.2
+142,2.0,Kimberlite Pipe,,,,_Preakness_Stakes,1999,8,17.4
+143,12.0,Valhol,,,,_Preakness_Stakes,1999,9,61.7
+144,13.0,Vicar,,,,_Preakness_Stakes,1999,10,24.0
+145,1.0,Torrid Sand,,,,_Preakness_Stakes,1999,11,102.8
+146,10.0,Worldly Manner,,,,_Preakness_Stakes,1999,12,5.3
+147,7.0,Excellent Meeting,,,,_Preakness_Stakes,1999,13,6.6
+148,0.0,Silverbulletday,,,,_Preakness_Stakes,1999,14,0.0
+149,6.0,Captain Steve,,,,_Preakness_Stakes,2000,4,11.5
+150,2.0,Snuck In,,,,_Preakness_Stakes,2000,5,19.6
+151,1.0,Hugh Hefner,,,,_Preakness_Stakes,2000,6,49.7
+152,5.0,High Yield,,,,_Preakness_Stakes,2000,7,7.3
+153,8.0,Hal's Hope,,,,_Preakness_Stakes,2000,8,35.1
+154,10.0,Dollar Bill,,,,_Preakness_Stakes,2001,4,8.3
+155,3.0,Griffinite,,,,_Preakness_Stakes,2001,5,59.1
+156,7.0,Monarchos,,,,_Preakness_Stakes,2001,6,2.3
+157,1.0,Marciano,,,,_Preakness_Stakes,2001,7,46.3
+158,9.0,Bay Eagle,,,,_Preakness_Stakes,2001,8,88.3
+159,8.0,Percy Hope,,,,_Preakness_Stakes,2001,9,52.6
+160,6.0,Richly Blended,,,,_Preakness_Stakes,2001,10,17.9
+161,2.0,Mr. John,,,,_Preakness_Stakes,2001,11,20.2
+162,12.0,Proud Citizen,,,,_Preakness_Stakes,2002,3,7.4
+163,6.0,Harlan's Holiday,,,,_Preakness_Stakes,2002,4,5.2
+164,7.0,Easyfromthegitgo,,,,_Preakness_Stakes,2002,5,23.4
+165,1.0,U S S Tinosa,,,,_Preakness_Stakes,2002,6,10.2
+166,4.0,Crimson Hero,,,,_Preakness_Stakes,2002,7,14.8
+167,5.0,Medaglia d'Oro,,,,_Preakness_Stakes,2002,8,3.0
+168,3.0,Straight Gin,,,,_Preakness_Stakes,2002,9,28.0
+169,1.0,Menacing Dennis,,,,_Preakness_Stakes,2002,10,51.2
+170,9.0,Table Limit,,,,_Preakness_Stakes,2002,11,23.1
+171,10.0,Booklet,,,,_Preakness_Stakes,2002,12,9.9
+172,11.0,Equality,,,,_Preakness_Stakes,2002,13,27.5
+173,2.0,Scrimshaw,,,,_Preakness_Stakes,2003,3,4.9
+174,7.0,Peace Rules,,,,_Preakness_Stakes,2003,4,2.4
+175,10.0,Senor Swinger,,,,_Preakness_Stakes,2003,5,4.9
+176,8.0,New York Hero,,,,_Preakness_Stakes,2003,6,19.6
+177,3.0,Foufa's Warrior,,,,_Preakness_Stakes,2003,7,22.4
+178,1.0,Cherokee's Boy,,,,_Preakness_Stakes,2003,8,9.7
+179,5.0,Ten Cents A Shine,,,,_Preakness_Stakes,2003,9,8.5
+180,4.0,Kissin Saint,,,,_Preakness_Stakes,2003,10,10.2
+181,1.0,Lion Heart,,,,_Preakness_Stakes,2004,4,4.9
+182,8.0,Imperialism,,,,_Preakness_Stakes,2004,5,6.6
+183,6.0,Sir Shackleton,,,,_Preakness_Stakes,2004,6,37.5
+184,2.0,Borrego,,,,_Preakness_Stakes,2004,7,12.8
+185,3.0,Little Matth Man,,,,_Preakness_Stakes,2004,8,45.0
+186,5.0,Song of the Sword,,,,_Preakness_Stakes,2004,9,51.0
+187,11.0,Water Cannon,,,,_Preakness_Stakes,2004,10,39.5
+188,10.0,Sun King,,,,_Preakness_Stakes,2005,4,21.1
+189,11.0,High Limit,,,,_Preakness_Stakes,2005,5,18.7
+190,3.0,Noble Causeway,,,,_Preakness_Stakes,2005,6,11.3
+191,4.0,Greeley's Galaxy,,,,_Preakness_Stakes,2005,7,9.4
+192,1.0,Malibu Moonshine,,,,_Preakness_Stakes,2005,8,24.0
+193,7.0,Closing Argument,,,,_Preakness_Stakes,2005,9,7.2
+194,2.0,High Fly,,,,_Preakness_Stakes,2005,10,5.1
+195,6.0,Hal's Image,,,,_Preakness_Stakes,2005,11,23.5
+196,9.0,Wilko,,,,_Preakness_Stakes,2005,12,13.3
+197,5.0,Galloping Grocer,,,,_Preakness_Stakes,2005,13,27.0
+198,14.0,Going Wild,,,,_Preakness_Stakes,2005,14,26.5
+199,5.0,Brother Derek,,,,_Preakness_Stakes,2006,4,3.2
+200,4.0,Greeley's Galaxy,,,,_Preakness_Stakes,2006,5,34.9
+201,2.0,Platinum Couple,,,,_Preakness_Stakes,2006,6,33.2
+202,1.0,Like Now,,,,_Preakness_Stakes,2006,7,17.4
+203,9.0,Diabolical,,,,_Preakness_Stakes,2006,8,26.0
+204,6.0,Barbaro,,,,_Preakness_Stakes,2006,9,0.5
+205,9.0,C P West,,,,_Preakness_Stakes,2007,4,24.9
+206,3.0,Circular Quay,,,,_Preakness_Stakes,2007,5,6.0
+207,5.0,King of the Roxy,,,,_Preakness_Stakes,2007,6,14.2
+208,1.0,Mint Slewlep,,,,_Preakness_Stakes,2007,7,40.1
+209,2.0,Xchanger,,,,_Preakness_Stakes,2007,8,23.0
+210,6.0,Flying First Class,,,,_Preakness_Stakes,2007,9,16.6
+211,6.0,Racecar Rhapsody,,,,_Preakness_Stakes,2008,4,25.0
+212,9.0,Stevil,,,,_Preakness_Stakes,2008,5,41.0
+213,8.0,Kentucky Bear,,,,_Preakness_Stakes,2008,6,14.0
+214,13.0,Hey Byrn,,,,_Preakness_Stakes,2008,7,34.0
+215,11.0,Giant Moon,,,,_Preakness_Stakes,2008,8,37.0
+216,2.0,Tres Borrachos,,,,_Preakness_Stakes,2008,9,43.0
+217,4.0,Yankee Bravo,,,,_Preakness_Stakes,2008,10,24.0
+218,12.0,Gayego,,,,_Preakness_Stakes,2008,11,9.0
+219,10.0,Riley Tucker,,,,_Preakness_Stakes,2008,12,36.0
+220,5.0,Behindatthebar,,,,_Preakness_Stakes,2008,0,0.0
+221,10.0,Flying Private,,,,_Preakness_Stakes,2009,4,50.0
+222,1.0,Big Drama,,,,_Preakness_Stakes,2009,5,10.0
+223,7.0,Papa Clem,,,,_Preakness_Stakes,2009,6,12.0
+224,6.0,Terrain,,,,_Preakness_Stakes,2009,7,30.0
+225,4.0,Luv Gov,,,,_Preakness_Stakes,2009,8,50.0
+226,8.0,General Quarters,,,,_Preakness_Stakes,2009,9,20.0
+227,5.0,Friesan Fire,,,,_Preakness_Stakes,2009,10,6.0
+228,9.0,Pioneerof the Nile,,,,_Preakness_Stakes,2009,11,5.0
+229,12.0,Tone It Down,,,,_Preakness_Stakes,2009,12,50.0
+230,11.0,Take the Points,,,,_Preakness_Stakes,2009,13,30.0
+231,5.0,Yawanna Twist,,,,_Preakness_Stakes,2010,4,30.0
+232,12.0,Dublin,,,,_Preakness_Stakes,2010,5,10.0
+233,10.0,Paddy O'Prado,,,,_Preakness_Stakes,2010,6,4.5
+234,9.0,Caracortado,,,,_Preakness_Stakes,2010,7,10.0
+235,8.0,Super Saver,,,,_Preakness_Stakes,2010,8,2.5
+236,2.0,Schoolyard Dreams,,,,_Preakness_Stakes,2010,9,15.0
+237,1.0,Aikenite,,,,_Preakness_Stakes,2010,10,20.0
+238,3.0,Pleasant Prince,,,,_Preakness_Stakes,2010,11,20.0
+239,4.0,Northern Giant,,,,_Preakness_Stakes,2010,12,30.0
+240,10.0,Dialed In,,,,_Preakness_Stakes,2011,4,4.5
+241,8.0,Dance City,,,,_Preakness_Stakes,2011,5,12.0
+242,9.0,Mucho Macho Man,,,,_Preakness_Stakes,2011,6,6.0
+243,3.0,King Congie,,,,_Preakness_Stakes,2011,7,20.0
+244,14.0,Mr. Commons,,,,_Preakness_Stakes,2011,8,20.0
+245,12.0,Isn't He Perfect,,,,_Preakness_Stakes,2011,9,30.0
+246,13.0,Concealed Identity,,,,_Preakness_Stakes,2011,10,30.0
+247,2.0,Norman Asbjornson,,,,_Preakness_Stakes,2011,11,30.0
+248,6.0,Sway Away,,,,_Preakness_Stakes,2011,12,15.0
+249,7.0,Midnight Interlude,,,,_Preakness_Stakes,2011,13,15.0
+250,4.0,Flashpoint,,,,_Preakness_Stakes,2011,14,20.0
+251,4.0,Zetterholm,,,,_Preakness_Stakes,2012,0,20.0
+252,2.0,Teeth of the Dog,,,,_Preakness_Stakes,2012,5,15.0
+253,10.0,Optimizer,,,,_Preakness_Stakes,2012,6,30.0
+254,11.0,Cozzetti,,,,_Preakness_Stakes,2012,7,30.0
+255,1.0,Tiger Walk,,,,_Preakness_Stakes,2012,8,30.0
+256,8.0,Daddy Nose Best,,,,_Preakness_Stakes,2012,9,12.0
+257,5.0,Went the Day Well,,,,_Preakness_Stakes,2012,10,6.0
+258,3.0,Pretension,,,,_Preakness_Stakes,2012,11,30.0
+259,1.0,Orb,,,,_Preakness_Stakes,2013,4,1.0
+260,2.0,Goldencents,,,,_Preakness_Stakes,2013,5,8.0
+261,4.0,Departing,,,,_Preakness_Stakes,2013,6,6.0
+262,7.0,Will Take Charge,,,,_Preakness_Stakes,2013,7,12.0
+263,8.0,Govenor Charlie,,,,_Preakness_Stakes,2013,8,12.0
+264,3.0,Titletown Five,,,,_Preakness_Stakes,2013,9,30.0
+265,10.0,Ride on Curlin,,,,_Preakness_Stakes,2014,2,10.0
+266,2.0,General a Rod,,,,_Preakness_Stakes,2014,4,15.0
+267,4.0,Ring Weekend,,,,_Preakness_Stakes,2014,5,20.0
+268,9.0,Pablo Del Monte,,,,_Preakness_Stakes,2014,6,20.0
+269,1.0,Dynamic Impact,,,,_Preakness_Stakes,2014,7,12.0
+270,7.0,Kid Cruz,,,,_Preakness_Stakes,2014,8,20.0
+271,5.0,Bayern,,,,_Preakness_Stakes,2014,9,10.0
+272,6.0,Ria Antonia,,,,_Preakness_Stakes,2014,10,30.0
+273,2.0,Dortmund,,,,_Preakness_Stakes,2015,4,3.5
+274,3.0,Mr. Z,,,,_Preakness_Stakes,2015,5,20.0
+275,4.0,Danzig Moon,,,,_Preakness_Stakes,2015,6,15.0
+276,8.0,Firing Line,,,,_Preakness_Stakes,2015,7,4.0
+277,6.0,Bodhisattva,,,,_Preakness_Stakes,2015,8,20.0
+278,3.0,Halory Hunter,,,,_Kentucky_Derby,1998,4,6.6
+279,10.0,Cape Town,,,,_Kentucky_Derby,1998,5,4.6
+280,9.0,Parade Ground,,,,_Kentucky_Derby,1998,6,22.3
+281,5.0,Hanuman Highway,,,,_Kentucky_Derby,1998,7,22.5
+282,6.0,Favorite Trick,,,,_Kentucky_Derby,1998,8,4.4
+283,1.0,Nationalore,,,,_Kentucky_Derby,1998,9,109.6
+284,13.0,Old Trieste,,,,_Kentucky_Derby,1998,10,32.1
+285,4.0,Chilito,,,,_Kentucky_Derby,1998,11,34.8
+286,15.0,Robinwould,,,,_Kentucky_Derby,1998,12,69.8
+287,11.0,Artax,,,,_Kentucky_Derby,1998,13,11.5
+288,8.0,Rock and Roll,,,,_Kentucky_Derby,1998,14,50.6
+289,14.0,Basic Trainee,,,,_Kentucky_Derby,1998,15,69.8
+290,9.0,Prime Timber,,,,_Kentucky_Derby,1999,4,6.3
+291,2.0,Excellent Meeting,,,,_Kentucky_Derby,1999,5,4.8
+292,17.0,Kimberlite Pipe,,,,_Kentucky_Derby,1999,6,11.6
+293,0.0,Worldly Manner,,,,_Kentucky_Derby,1999,7,14.5
+294,16.0,K One King,,,,_Kentucky_Derby,1999,8,11.6
+295,18.0,Lemon Drop Kid,,,,_Kentucky_Derby,1999,9,11.6
+296,7.0,Answer Lively,,,,_Kentucky_Derby,1999,10,37.0
+297,0.0,General Challenge,,,,_Kentucky_Derby,1999,11,4.8
+298,14.0,Ecton Park,,,,_Kentucky_Derby,1999,12,11.6
+299,6.0,Desert Hero,,,,_Kentucky_Derby,1999,13,19.7
+300,5.0,Stephen Got Even,,,,_Kentucky_Derby,1999,14,5.1
+301,15.0,Valhol,,,,_Kentucky_Derby,1999,15,11.6
+302,10.0,First American,,,,_Kentucky_Derby,1999,16,34.9
+303,3.0,Adonis,,,,_Kentucky_Derby,1999,17,18.7
+304,12.0,Vicar,,,,_Kentucky_Derby,1999,18,8.2
+305,4.0,Three Ring,,,,_Kentucky_Derby,1999,19,25.6
+306,9.0,More Than Ready,,,,_Kentucky_Derby,2000,4,11.3
+307,3.0,Wheelaway,,,,_Kentucky_Derby,2000,5,20.8
+308,11.0,China Visit,,,,_Kentucky_Derby,2000,6,23.7
+309,18.0,Curule,,,,_Kentucky_Derby,2000,7,23.7
+310,7.0,Captain Steve,,,,_Kentucky_Derby,2000,8,8.1
+311,8.0,War Chant,,,,_Kentucky_Derby,2000,9,9.9
+312,6.0,Deputy Warlock,,,,_Kentucky_Derby,2000,10,20.8
+313,5.0,Trippi,,,,_Kentucky_Derby,2000,11,6.2
+314,16.0,Exchange Rate,,,,_Kentucky_Derby,2000,12,59.2
+315,1.0,Anees,,,,_Kentucky_Derby,2000,13,17.1
+316,10.0,The Deputy,,,,_Kentucky_Derby,2000,14,4.6
+317,17.0,High Yield,,,,_Kentucky_Derby,2000,15,6.2
+318,4.0,Hal's Hope,,,,_Kentucky_Derby,2000,16,22.7
+319,12.0,Commendable,,,,_Kentucky_Derby,2000,17,6.2
+320,19.0,Ronton,,,,_Kentucky_Derby,2000,18,20.8
+321,13.0,Graeme Hall,,,,_Kentucky_Derby,2000,19,46.3
+322,4.0,Thunder Blitz,,,,_Kentucky_Derby,2001,4,25.4
+323,17.0,Point Given,,,,_Kentucky_Derby,2001,5,1.8
+324,15.0,Jamaican Rum,,,,_Kentucky_Derby,2001,6,20.2
+325,9.0,A P Valentine,,,,_Kentucky_Derby,2001,7,19.9
+326,6.0,Express Tour,,,,_Kentucky_Derby,2001,8,18.1
+327,5.0,Fifty Stars,,,,_Kentucky_Derby,2001,9,43.6
+328,12.0,Startac,,,,_Kentucky_Derby,2001,10,102.4
+329,2.0,Millennium Wind,,,,_Kentucky_Derby,2001,11,9.9
+330,7.0,Artic Boy,,,,_Kentucky_Derby,2001,12,101.2
+331,1.0,Songandaprayer,,,,_Kentucky_Derby,2001,13,35.9
+332,3.0,Balto Star,,,,_Kentucky_Derby,2001,14,8.3
+333,10.0,Dollar Bill,,,,_Kentucky_Derby,2001,15,6.6
+334,14.0,Keats,,,,_Kentucky_Derby,2001,16,95.0
+335,11.0,Talk Is Money,,,,_Kentucky_Derby,2001,17,47.1
+336,9.0,Medaglia d'Oro,,,,_Kentucky_Derby,2002,4,6.9
+337,7.0,Request for Parole,,,,_Kentucky_Derby,2002,5,29.8
+338,8.0,Came Home,,,,_Kentucky_Derby,2002,6,8.2
+339,15.0,Harlan's Holiday,,,,_Kentucky_Derby,2002,7,6.0
+340,1.0,Johannesburg,,,,_Kentucky_Derby,2002,8,8.1
+341,8.0,Essence of Dubai,,,,_Kentucky_Derby,2002,9,10.0
+342,16.0,Saarland,,,,_Kentucky_Derby,2002,10,6.9
+343,20.0,Blue Burner,,,,_Kentucky_Derby,2002,11,24.2
+344,12.0,Castle Gandolfo,,,,_Kentucky_Derby,2002,12,14.5
+345,19.0,Easy Grades,,,,_Kentucky_Derby,2002,13,43.8
+346,11.0,Private Emblem,,,,_Kentucky_Derby,2002,14,22.4
+347,10.0,Lusty Latin,,,,_Kentucky_Derby,2002,15,22.1
+348,18.0,It'sallinthechase,,,,_Kentucky_Derby,2002,16,94.5
+349,6.0,Ocean Sound,,,,_Kentucky_Derby,2002,17,48.7
+350,2.0,Wild Horses,,,,_Kentucky_Derby,2002,18,58.5
+351,4.0,Atswhatimtalknbout,,,,_Kentucky_Derby,2003,4,8.9
+352,13.0,Eye of the Tiger,,,,_Kentucky_Derby,2003,5,41.5
+353,8.0,Buddy Gil,,,,_Kentucky_Derby,2003,6,7.2
+354,15.0,Outta Here,,,,_Kentucky_Derby,2003,7,39.7
+355,14.0,Ten Cents a Shine,,,,_Kentucky_Derby,2003,8,37.2
+356,16.0,Ten Most Wanted,,,,_Kentucky_Derby,2003,9,6.6
+357,11.0,Domestic Dispute,,,,_Kentucky_Derby,2003,10,4.0
+358,17.0,Scrimshaw,,,,_Kentucky_Derby,2003,11,16.5
+359,7.0,Offlee Wild,,,,_Kentucky_Derby,2003,12,29.9
+360,1.0,Supah Blitz,,,,_Kentucky_Derby,2003,13,43.1
+361,9.0,Indian Express,,,,_Kentucky_Derby,2003,14,10.8
+362,10.0,Lone Star Sky,,,,_Kentucky_Derby,2003,15,52.1
+363,2.0,Brancusi,,,,_Kentucky_Derby,2003,16,29.3
+364,1.0,Limehouse,,,,_Kentucky_Derby,2004,4,41.7
+365,11.0,The Cliff's Edge,,,,_Kentucky_Derby,2004,5,8.2
+366,4.0,Action This Day,,,,_Kentucky_Derby,2004,6,43.4
+367,14.0,Read the Footnotes,,,,_Kentucky_Derby,2004,7,22.5
+368,13.0,Birdstone,,,,_Kentucky_Derby,2004,8,21.2
+369,18.0,Tapit,,,,_Kentucky_Derby,2004,9,6.4
+370,12.0,Borrego,,,,_Kentucky_Derby,2004,10,14.2
+371,2.0,Song of the Sword,,,,_Kentucky_Derby,2004,11,55.9
+372,8.0,Master David,,,,_Kentucky_Derby,2004,12,10.6
+373,19.0,Pro Prado,,,,_Kentucky_Derby,2004,13,53.5
+374,16.0,Castledale,,,,_Kentucky_Derby,2004,14,21.9
+375,6.0,Friends Lake,,,,_Kentucky_Derby,2004,15,18.5
+376,7.0,Minister Eric,,,,_Kentucky_Derby,2004,16,22.5
+377,17.0,Pollard's Vision,,,,_Kentucky_Derby,2004,17,24.0
+378,20.0,Quintons Gold Rush,,,,_Kentucky_Derby,2004,18,51.2
+379,17.0,Don't Get Mad,,,,_Kentucky_Derby,2005,4,29.2
+380,20.0,Buzzard's Bay,,,,_Kentucky_Derby,2005,5,46.3
+381,14.0,Wilko,,,,_Kentucky_Derby,2005,6,21.7
+382,16.0,Bellamy Road,,,,_Kentucky_Derby,2005,7,2.6
+383,2.0,Andromeda's Hero,,,,_Kentucky_Derby,2005,8,57.3
+384,7.0,Flower Alley,,,,_Kentucky_Derby,2005,9,41.3
+385,11.0,High Fly,,,,_Kentucky_Derby,2005,10,7.1
+386,9.0,Greeley's Galaxy,,,,_Kentucky_Derby,2005,11,21.0
+387,5.0,Coin Silver,,,,_Kentucky_Derby,2005,12,38.6
+388,8.0,Greater Good,,,,_Kentucky_Derby,2005,13,58.4
+389,4.0,Noble Causeway,,,,_Kentucky_Derby,2005,14,12.3
+390,3.0,Sun King,,,,_Kentucky_Derby,2005,15,15.7
+391,13.0,Spanish Chestnut,,,,_Kentucky_Derby,2005,16,71.0
+392,1.0,Sort It Out,,,,_Kentucky_Derby,2005,17,61.9
+393,19.0,Going Wild,,,,_Kentucky_Derby,2005,18,59.5
+394,15.0,Bandini,,,,_Kentucky_Derby,2005,19,6.8
+395,6.0,High Limit,,,,_Kentucky_Derby,2005,20,22.5
+396,18.0,Brother Derek,,,,_Kentucky_Derby,2006,4,24.2
+397,1.0,Jazil,,,,_Kentucky_Derby,2006,4,7.7
+398,6.0,Showing Up,,,,_Kentucky_Derby,2006,6,26.2
+399,11.0,Sweetnorthernsaint,,,,_Kentucky_Derby,2006,7,5.5
+400,14.0,Deputy Glitters,,,,_Kentucky_Derby,2006,8,60.6
+401,5.0,Point Determined,,,,_Kentucky_Derby,2006,9,9.4
+402,15.0,Seaside Retreat,,,,_Kentucky_Derby,2006,10,52.5
+403,19.0,Storm Treasure,,,,_Kentucky_Derby,2006,11,51.9
+404,17.0,Lawyer Ron,,,,_Kentucky_Derby,2006,12,10.2
+405,16.0,Cause to Believe,,,,_Kentucky_Derby,2006,13,25.9
+406,20.0,Flashy Bull,,,,_Kentucky_Derby,2006,14,43.0
+407,12.0,Private Vow,,,,_Kentucky_Derby,2006,15,40.5
+408,4.0,Sinister Minister,,,,_Kentucky_Derby,2006,16,9.7
+409,7.0,Bob and John,,,,_Kentucky_Derby,2006,17,12.9
+410,10.0,A.P. Warrior,,,,_Kentucky_Derby,2006,18,14.1
+411,9.0,Sharp Humor,,,,_Kentucky_Derby,2006,19,30.1
+412,3.0,Keyed Entry,,,,_Kentucky_Derby,2006,20,28.8
+413,5.0,Imawildandcrazyguy,,,,_Kentucky_Derby,2007,4,28.9
+414,1.0,Sedgefield,,,,_Kentucky_Derby,2007,5,58.6
+415,16.0,Circular Quay,,,,_Kentucky_Derby,2007,6,11.4
+416,15.0,Tiago,,,,_Kentucky_Derby,2007,7,14.8
+417,18.0,Any Given Saturday,,,,_Kentucky_Derby,2007,8,13.6
+418,13.0,Sam P.,,,,_Kentucky_Derby,2007,9,43.7
+419,12.0,Nobiz Like Shobiz,,,,_Kentucky_Derby,2007,10,10.4
+420,19.0,Dominican,,,,_Kentucky_Derby,2007,11,24.9
+421,3.0,Zanjero,,,,_Kentucky_Derby,2007,12,36.0
+422,20.0,Great Hunter,,,,_Kentucky_Derby,2007,13,25.3
+423,9.0,Liquidity,,,,_Kentucky_Derby,2007,14,40.0
+424,11.0,Bwana Bull,,,,_Kentucky_Derby,2007,15,50.3
+425,4.0,Storm in May,,,,_Kentucky_Derby,2007,16,27.2
+426,10.0,Teuflesberg,,,,_Kentucky_Derby,2007,17,51.9
+427,14.0,Scat Daddy,,,,_Kentucky_Derby,2007,18,7.2
+428,17.0,Stormello,,,,_Kentucky_Derby,2007,19,44.8
+429,6.0,Cowtown Cat,,,,_Kentucky_Derby,2007,20,19.8
+430,1.0,Cool Coal Man,,,,_Kentucky_Derby,2008,15,44.0
+431,2.0,Tale of Ekati,,,,_Kentucky_Derby,2008,4,37.0
+432,3.0,Anak Nakal,,,,_Kentucky_Derby,2008,7,53.0
+433,4.0,Court Vision,,,,_Kentucky_Derby,2008,13,17.0
+434,6.0,Z Fortune,,,,_Kentucky_Derby,2008,10,19.0
+435,7.0,Big Truck,,,,_Kentucky_Derby,2008,18,28.0
+436,8.0,Visionaire,,,,_Kentucky_Derby,2008,12,25.0
+437,9.0,Pyro,,,,_Kentucky_Derby,2008,8,5.0
+438,10.0,Colonel John,,,,_Kentucky_Derby,2008,6,4.5
+439,11.0,Z Humor,,,,_Kentucky_Derby,2008,14,63.0
+440,12.0,Smooth Air,,,,_Kentucky_Derby,2008,11,42.0
+441,13.0,Bob Black Jack,,,,_Kentucky_Derby,2008,16,29.0
+442,14.0,Monba,,,,_Kentucky_Derby,2008,20,31.0
+443,15.0,Adriano,,,,_Kentucky_Derby,2008,19,28.0
+444,17.0,Cowboy Cal,,,,_Kentucky_Derby,2008,9,39.0
+445,18.0,Recapturetheglory,,,,_Kentucky_Derby,2008,5,49.0
+446,19.0,Gayego,,,,_Kentucky_Derby,2008,17,18.0
+447,16.0,Pioneerof the Nile,,,,_Kentucky_Derby,2009,2,6.3
+448,7.0,Papa Clem,,,,_Kentucky_Derby,2009,4,12.2
+449,11.0,Chocolate Candy,,,,_Kentucky_Derby,2009,5,10.0
+450,9.0,Make Music for Me,,,,_Kentucky_Derby,2010,4,50.0
+451,3.0,Noble's Promise,,,,_Kentucky_Derby,2010,5,12.0
+452,1.0,Lookin at Lucky,,,,_Kentucky_Derby,2010,6,3.0
+453,17.0,Dublin,,,,_Kentucky_Derby,2010,7,12.0
+454,6.0,Stately Victor,,,,_Kentucky_Derby,2010,8,30.0
+455,14.0,Mission Impazible,,,,_Kentucky_Derby,2010,9,20.0
+456,11.0,Devil May Care,,,,_Kentucky_Derby,2010,10,10.0
+457,7.0,American Lion,,,,_Kentucky_Derby,2010,11,30.0
+458,13.0,Jackson Bend,,,,_Kentucky_Derby,2010,12,15.0
+459,15.0,Discreetly Mine,,,,_Kentucky_Derby,2010,13,30.0
+460,8.0,Dean's Kitten,,,,_Kentucky_Derby,2010,14,50.0
+461,12.0,Conveyance,,,,_Kentucky_Derby,2010,15,12.0
+462,19.0,Homeboykris,,,,_Kentucky_Derby,2010,16,50.0
+463,20.0,Sidney's Candy,,,,_Kentucky_Derby,2010,17,5.0
+464,5.0,Line of David,,,,_Kentucky_Derby,2010,18,30.0
+465,16.0,Awesome Act,,,,_Kentucky_Derby,2010,19,10.0
+466,18.0,Backtalk,,,,_Kentucky_Derby,2010,20,50.0
+467,14.0,Shackleford,,,,_Kentucky_Derby,2011,4,12.0
+468,11.0,Master of Hounds,,,,_Kentucky_Derby,2011,5,30.0
+469,12.0,Santiva,,,,_Kentucky_Derby,2011,6,30.0
+470,2.0,Brilliant Speed,,,,_Kentucky_Derby,2011,7,30.0
+471,8.0,Dialed In,,,,_Kentucky_Derby,2011,8,4.0
+472,7.0,Pants On Fire,,,,_Kentucky_Derby,2011,9,20.0
+473,3.0,Twice the Appeal,,,,_Kentucky_Derby,2011,10,20.0
+474,17.0,Soldat,,,,_Kentucky_Derby,2011,11,12.0
+475,4.0,Stay Thirsty,,,,_Kentucky_Derby,2011,12,20.0
+476,9.0,Derby Kitten,,,,_Kentucky_Derby,2011,13,30.0
+477,5.0,Decisive Moment,,,,_Kentucky_Derby,2011,14,30.0
+478,1.0,Archarcharch,,,,_Kentucky_Derby,2011,15,10.0
+479,15.0,Midnight Interlude,,,,_Kentucky_Derby,2011,16,10.0
+480,10.0,Twinspired,,,,_Kentucky_Derby,2011,17,30.0
+481,20.0,Watch Me Go,,,,_Kentucky_Derby,2011,18,50.0
+482,6.0,Comma To The Top,,,,_Kentucky_Derby,2011,19,30.0
+483,13.0,Went The Day Well,,,,_Kentucky_Derby,2012,4,20.0
+484,8.0,Creative Cause,,,,_Kentucky_Derby,2012,5,12.0
+485,20.0,Liaison,,,,_Kentucky_Derby,2012,6,50.0
+486,4.0,Union Rags,,,,_Kentucky_Derby,2012,7,4.5
+487,7.0,Rousing Sermon,,,,_Kentucky_Derby,2012,8,50.0
+488,14.0,Hansen,,,,_Kentucky_Derby,2012,9,10.0
+489,10.0,Daddy Nose Best,,,,_Kentucky_Derby,2012,10,15.0
+490,2.0,Optimizer,,,,_Kentucky_Derby,2012,11,50.0
+491,11.0,Alpha,,,,_Kentucky_Derby,2012,12,15.0
+492,16.0,El Padrino,,,,_Kentucky_Derby,2012,13,20.0
+493,17.0,Done Talking,,,,_Kentucky_Derby,2012,14,50.0
+494,18.0,Sabercat,,,,_Kentucky_Derby,2012,15,30.0
+495,15.0,Gemologist,,,,_Kentucky_Derby,2012,16,6.0
+496,9.0,Trinniberg,,,,_Kentucky_Derby,2012,17,50.0
+497,12.0,Prospective,,,,_Kentucky_Derby,2012,18,30.0
+498,3.0,Take Charge Indy,,,,_Kentucky_Derby,2012,19,15.0
+499,1.0,Daddy Long Legs,,,,_Kentucky_Derby,2012,0,30.0
+500,5.0,Normandy Invasion,,,,_Kentucky_Derby,2013,4,12.0
+501,6.0,Mylute,,,,_Kentucky_Derby,2013,5,15.0
+502,2.0,Oxbow,,,,_Kentucky_Derby,2013,6,30.0
+503,11.0,Lines of Battle,,,,_Kentucky_Derby,2013,7,30.0
+504,17.0,Will Take Charge,,,,_Kentucky_Derby,2013,8,20.0
+505,15.0,Charming Kitten,,,,_Kentucky_Derby,2013,9,20.0
+506,7.0,Giant Finish,,,,_Kentucky_Derby,2013,10,50.0
+507,9.0,Overanalyze,,,,_Kentucky_Derby,2013,11,15.0
+508,10.0,Palace Malice,,,,_Kentucky_Derby,2013,12,20.0
+509,19.0,Java's War,,,,_Kentucky_Derby,2013,13,15.0
+510,14.0,Verrazano,,,,_Kentucky_Derby,2013,14,4.0
+511,12.0,Itsmyluckyday,,,,_Kentucky_Derby,2013,15,15.0
+512,18.0,Frac Daddy,,,,_Kentucky_Derby,2013,16,50.0
+513,8.0,Goldencents,,,,_Kentucky_Derby,2013,17,5.0
+514,20.0,Vyjack,,,,_Kentucky_Derby,2013,18,50.0
+515,13.0,Falling Sky,,,,_Kentucky_Derby,2013,19,50.0
+516,1.0,Black Onyx,,,,_Kentucky_Derby,2013,0,50.0
+517,0.0,Fear the Kitten,,,,_Kentucky_Derby,2013,0,0.0
+518,20.0,Wicked Strong,,,,_Kentucky_Derby,2014,4,8.0
+519,6.0,Samraat,,,,_Kentucky_Derby,2014,5,15.0
+520,12.0,Dance With Fate,,,,_Kentucky_Derby,2014,6,20.0
+521,19.0,Ride On Curlin,,,,_Kentucky_Derby,2014,7,15.0
+522,14.0,Medal Count,,,,_Kentucky_Derby,2014,8,20.0
+523,13.0,Chitu,,,,_Kentucky_Derby,2014,9,20.0
+524,7.0,We Miss Artie,,,,_Kentucky_Derby,2014,10,50.0
+525,8.0,General A Rod,,,,_Kentucky_Derby,2014,11,15.0
+526,16.0,Intense Holiday,,,,_Kentucky_Derby,2014,12,12.0
+527,18.0,Candy Boy,,,,_Kentucky_Derby,2014,13,20.0
+528,3.0,Uncle Sigh,,,,_Kentucky_Derby,2014,14,30.0
+529,15.0,Tapiture,,,,_Kentucky_Derby,2014,15,15.0
+530,2.0,Harry's Holiday,,,,_Kentucky_Derby,2014,16,50.0
+531,9.0,Vinceremos,,,,_Kentucky_Derby,2014,17,30.0
+532,10.0,Wildcat Red,,,,_Kentucky_Derby,2014,18,15.0
+533,1.0,Vicar's In Trouble,,,,_Kentucky_Derby,2014,19,30.0
+534,11.0,Hoppertunity,,,,_Kentucky_Derby,2014,0,0.0
+535,0.0,Pablo del Monte,,,,_Kentucky_Derby,2014,0,0.0
+536,15.0,Frosted,,,,_Kentucky_Derby,2015,4,15.0
+537,5.0,Danzig Moon,,,,_Kentucky_Derby,2015,5,30.0
+538,3.0,Materiality,,,,_Kentucky_Derby,2015,6,12.0
+539,14.0,Keen Ice,,,,_Kentucky_Derby,2015,7,50.0
+540,6.0,Mubtaahij,,,,_Kentucky_Derby,2015,8,20.0
+541,13.0,Itsaknockout,,,,_Kentucky_Derby,2015,9,30.0
+542,2.0,Carpe Diem,,,,_Kentucky_Derby,2015,10,8.0
+543,21.0,Frammento,,,,_Kentucky_Derby,2015,11,50.0
+544,9.0,Bolo,,,,_Kentucky_Derby,2015,12,30.0
+545,17.0,Mr. Z,,,,_Kentucky_Derby,2015,13,50.0
+546,1.0,Ocho Ocho Ocho,,,,_Kentucky_Derby,2015,14,50.0
+547,20.0,Far Right,,,,_Kentucky_Derby,2015,15,30.0
+548,16.0,War Story,,,,_Kentucky_Derby,2015,16,50.0
+549,4.0,Tencendur,,,,_Kentucky_Derby,2015,17,30.0
+550,19.0,Upstart,,,,_Kentucky_Derby,2015,18,15.0
+551,12.0,International Star,,,,_Kentucky_Derby,2015,0,0.0
+552,7.0,El Kabeir,,,,_Kentucky_Derby,2015,0,0.0
+553,11.0,Stanford,,,,_Kentucky_Derby,2015,0,0.0
+554,8.0,Jazil,,,,_Belmont_Stakes,2006,1,6.0
+555,9.0,Bluegrass Cat,,,,_Belmont_Stakes,2006,2,5.0
+556,2.0,Sunriver,,,,_Belmont_Stakes,2006,3,6.0
+557,11.0,Steppenwolfer,,,,_Belmont_Stakes,2006,4,5.0
+558,6.0,Oh So Awesome,,,,_Belmont_Stakes,2006,5,12.0
+559,3.0,Hemingway's Key,,,,_Belmont_Stakes,2006,6,15.0
+560,1.0,Platinum Couple,,,,_Belmont_Stakes,2006,7,38.0
+561,4.0,Bob and John,,,,_Belmont_Stakes,2006,8,4.5
+562,12.0,Sacred Light,,,,_Belmont_Stakes,2006,9,20.0
+563,5.0,High Finance,,,,_Belmont_Stakes,2006,10,10.0
+564,7.0,Deputy Glitters,,,,_Belmont_Stakes,2006,11,12.0
+565,10.0,Double Galore,,,,_Belmont_Stakes,2006,12,15.0
+566,6.0,Hard Spun,,,,_Belmont_Stakes,2007,4,2.5
+567,4.0,C P West,,,,_Belmont_Stakes,2007,5,12.0
+568,1.0,Imawildandcrazyguy,,,,_Belmont_Stakes,2007,6,20.0
+569,5.0,Slew's Tizzy,,,,_Belmont_Stakes,2007,7,20.0
+570,8.0,Anak Nakal,,,,_Belmont_Stakes,2008,0,34.0
+571,9.0,Ready's Echo,,,,_Belmont_Stakes,2008,0,29.0
+572,3.0,Macho Again,,,,_Belmont_Stakes,2008,5,17.0
+573,7.0,Tale of Ekati,,,,_Belmont_Stakes,2008,6,14.0
+574,2.0,Guadalcanal,,,,_Belmont_Stakes,2008,7,25.0
+575,10.0,Icabad Crane,,,,_Belmont_Stakes,2008,8,17.0
+576,1.0,Big Brown,,,,_Belmont_Stakes,2008,9,0.25
+577,5.0,Casino Drive[6],,,,_Belmont_Stakes,2008,0,3.5
+578,6.0,Charitable Man,,,,_Belmont_Stakes,2009,4,17.0
+579,5.0,Luv Gov,,,,_Belmont_Stakes,2009,5,28.0
+580,8.0,Game On Dude,,,,_Belmont_Stakes,2010,4,10.0
+581,10.0,Stay Put,,,,_Belmont_Stakes,2010,5,20.0
+582,12.0,Interactif,,,,_Belmont_Stakes,2010,6,12.0
+583,9.0,Stately Victor,,,,_Belmont_Stakes,2010,7,15.0
+584,6.0,Ice Box,,,,_Belmont_Stakes,2010,8,3.0
+585,4.0,Make Music For Me,,,,_Belmont_Stakes,2010,9,10.0
+586,1.0,Dave in Dixie,,,,_Belmont_Stakes,2010,10,20.0
+587,2.0,Spangled Star,,,,_Belmont_Stakes,2010,11,30.0
+588,3.0,Uptowncharlybrown,,,,_Belmont_Stakes,2010,0,10.0
+589,6.0,Nehro,,,,_Belmont_Stakes,2011,4,4.0
+590,12.0,Shackleford,,,,_Belmont_Stakes,2011,5,4.5
+591,9.0,Animal Kingdom,,,,_Belmont_Stakes,2011,6,2.0
+592,10.0,Mucho Macho Man,,,,_Belmont_Stakes,2011,7,10.0
+593,4.0,Santiva,,,,_Belmont_Stakes,2011,8,15.0
+594,7.0,Monzon,,,,_Belmont_Stakes,2011,9,30.0
+595,1.0,Master of Hounds,,,,_Belmont_Stakes,2011,10,10.0
+596,8.0,Prime Cut,,,,_Belmont_Stakes,2011,11,15.0
+597,11.0,Isn't He Perfect,,,,_Belmont_Stakes,2011,12,30.0
+598,1.0,Street Life,,,,_Belmont_Stakes,2012,4,12.0
+599,7.0,Five Sixteen,,,,_Belmont_Stakes,2012,5,50.0
+600,2.0,Unstoppable U,,,,_Belmont_Stakes,2012,6,30.0
+601,5.0,Dullahan,,,,_Belmont_Stakes,2012,7,5.0
+602,11.0,My Adonis,,,,_Belmont_Stakes,2012,8,20.0
+603,6.0,Ravelo's Boy,,,,_Belmont_Stakes,2012,9,50.0
+604,10.0,Optimizer,,,,_Belmont_Stakes,2012,10,20.0
+605,8.0,Guyana Star Dweej,,,,_Belmont_Stakes,2012,0,50.0
+606,11.0,I'll Have Another,,,,_Belmont_Stakes,2012,0,0.8
+607,6.0,Incognito,,,,_Belmont_Stakes,2013,4,20.0
+608,9.0,Revolutionary,,,,_Belmont_Stakes,2013,5,4.5
+609,13.0,Unlimited Budget,,,,_Belmont_Stakes,2013,6,8.0
+610,3.0,Overanalyze,,,,_Belmont_Stakes,2013,7,12.0
+611,11.0,Vyjack,,,,_Belmont_Stakes,2013,8,20.0
+612,14.0,Golden Soul,,,,_Belmont_Stakes,2013,9,10.0
+613,10.0,Will Take Charge,,,,_Belmont_Stakes,2013,10,20.0
+614,4.0,Giant Finish,,,,_Belmont_Stakes,2013,11,30.0
+615,8.0,Midnight Taboo,,,,_Belmont_Stakes,2013,12,30.0
+616,2.0,Freedom Child,,,,_Belmont_Stakes,2013,13,8.0
+617,1.0,Frac Daddy,,,,_Belmont_Stakes,2013,14,30.0
+618,2.0,California Chrome,,,,_Belmont_Stakes,2014,4,0.6
+619,9.0,Wicked Strong,,,,_Belmont_Stakes,2014,4,6.0
+620,7.0,Samraat,,,,_Belmont_Stakes,2014,6,20.0
+621,10.0,General a Rod,,,,_Belmont_Stakes,2014,7,20.0
+622,3.0,Matterhorn,,,,_Belmont_Stakes,2014,8,30.0
+623,4.0,Commanding Curve,,,,_Belmont_Stakes,2014,9,15.0
+624,6.0,Matuszak,,,,_Belmont_Stakes,2014,0,30.0
+625,5.0,Ride On Curlin,,,,_Belmont_Stakes,2014,0,12.0
+626,1.0,Mubtaahij,,,,_Belmont_Stakes,2015,4,10.0
+627,4.0,Frammento,,,,_Belmont_Stakes,2015,5,30.0
+628,3.0,Madefromlucky,,,,_Belmont_Stakes,2015,6,12.0
+629,2.0,Tale of Verve,,,,_Belmont_Stakes,2015,7,15.0
+630,8.0,Materiality,,,,_Belmont_Stakes,2015,8,6.0
